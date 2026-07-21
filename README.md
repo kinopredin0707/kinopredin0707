@@ -1,52 +1,153 @@
-# Hi 👋 I'm Kino Predin
+<h1 align="center">Hi 👋, I'm Kino Predin</h1>
 
-### Frontend Developer | React.js | Next.js | Python | FastAPI
+<h3 align="center">
+Frontend Developer • React.js • Next.js • Python • FastAPI
+</h3>
 
-I'm a Frontend Developer currently building enterprise ERP applications using React.js, Next.js, Material UI, and FastAPI.
+<p align="center">
+Building modern web applications, automation tools, and AI-powered software.
+</p>
 
-## 🚀 Tech Stack
+---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer at **Softech Smart Solutions**
+- 🌱 Currently learning **Artificial Intelligence, LLMs, Docker & Python Automation**
+- 💻 Working with **React.js, Next.js, FastAPI and MySQL**
+- 🚀 Building enterprise ERP applications
+- 🎯 Preparing for **Master's in Computer Science**
+- 📍 Punjab, India
+
+---
+
+# 🚀 Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- JavaScript
-- HTML5
-- CSS3
-- Material UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
 ### Backend
-- Python
-- FastAPI
-- REST APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</p>
 
 ### Database
-- MySQL
-- MongoDB
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Linux
-- Postman
-- VS Code
 
-## 📚 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Artificial Intelligence
+- Large Language Models (LLMs)
 - Python Automation
 - Docker
-- Large Language Models (LLMs)
+- System Design
 
-## 🚀 Projects
+---
 
-- AI Document Assistant
-- Student ERP System
-- Python Automation Toolkit
+# 🚀 Featured Projects
+
+### 🤖 AI Document Assistant
+
+AI-powered document assistant using **React + FastAPI + Python**.
+
+Features:
+
+- PDF Upload
+- AI Summary
+- Question Answering
+- Local LLM Integration
+
+---
+
+### 🎓 Student ERP System
+
+Enterprise ERP built using
+
+- React.js
+- Next.js
+- Material UI
+- FastAPI
+- MySQL
+
+Modules
+
+- Student Management
+- Staff Management
+- Class Assignment
+- Authentication
+- Dashboard
+
+---
+
+### ⚙️ Python Automation Toolkit
+
+Automation utilities built with Python.
+
+Includes
+
 - Telegram Notification Bot
+- Email Scheduler
+- PC Startup Monitor
+- System Monitoring using psutil
+- Scheduled Automation Scripts
 
-## 📫 Contact
+---
 
-📧 Email: kinopredin@gmail.com
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kinopredin0707&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kinopredin0707&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinopredin0707&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+📧 Email:
+<a href="mailto:kinopredin@gmail.com">kinopredin@gmail.com</a>
+
+<br>
 
 💼 LinkedIn:
-https://www.linkedin.com/in/kino-predin-p-798701295/
+<a href="https://www.linkedin.com/in/kino-predin-p-798701295/">Kino Predin</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
