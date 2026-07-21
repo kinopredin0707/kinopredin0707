@@ -44,7 +44,7 @@ Building modern web applications, automation tools, and AI-powered software.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
