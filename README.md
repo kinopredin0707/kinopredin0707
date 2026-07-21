@@ -72,33 +72,6 @@ Features:
 
 ---
 
-### 🎓 Student ERP System
-Enterprise ERP built using
-- React.js
-- Next.js
-- Material UI
-- FastAPI
-- MySQL
-
-Modules
-- Student Management
-- Staff Management
-- Class Assignment
-- Authentication
-- Dashboard
-
----
-
-### ⚙️ Python Automation Toolkit
-Automation utilities built with Python.  
-Includes
-- Telegram Notification Bot
-- Email Scheduler
-- PC Startup Monitor
-- System Monitoring using psutil
-- Scheduled Automation Scripts
-
----
 
 # 📈 GitHub Stats
 <p align="center">
